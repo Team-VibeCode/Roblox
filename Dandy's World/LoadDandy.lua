@@ -1,5 +1,5 @@
-local LobbyID = 200
-local GameID = 300
+local LobbyID = 16116270224
+local GameID = 16552821455
 
 local PlaceID = game.PlaceId
 
