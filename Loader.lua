@@ -2,7 +2,7 @@ local scriptName = ...
 
 local scripts = {
     ["Step Carefully"] = "https://raw.githubusercontent.com/Team-VibeCode/Roblox/refs/heads/main/TreadLightly/Step%20Carefully.lua",
-    ["Dandy's World"] = "https://raw.githubusercontent.com/Team-VibeCode/Roblox/refs/heads/main/Dandy's%20World/LoadDandy.lua",
+    ["Dandy's Abuse Hub"] = "https://raw.githubusercontent.com/Team-VibeCode/Roblox/refs/heads/main/Dandy's%20World/Lobby.lua",
 }
 
 if not scriptName then
